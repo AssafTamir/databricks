@@ -9,7 +9,7 @@
     <version>2.6.29</version>
 
    <properties>
-         <jackson-databind.version>2.13.3</spring.version>
+         <jackson-databind.version>2.13.3</jackson-databind.version>
    </properties>      
          
     <dependencies>
