@@ -9,9 +9,9 @@
     <version>2.6.29</version>
 
 <parent>
-    <groupId>com.example</groupId>
-    <artifactId>parent-project</artifactId>
-    <version>1.0.0</version>
+    <groupId>com.parent</groupId>
+    <artifactId>test</artifactId>
+    <version>0.0.1</version>
     <relativePath>parent/pom.xml</relativePath>  
 </parent>
 
