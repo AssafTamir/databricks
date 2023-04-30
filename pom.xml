@@ -9,7 +9,10 @@
     <version>2.6.29</version>
 
    <properties>
-         <jackson-databind.version>2.13.3</jackson-databind.version>
+        <jackson-databind.version>2.13.3</jackson-databind.version>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
    </properties>      
          
     <dependencies>
@@ -54,10 +57,4 @@
         </plugins>
     </build>
 
-
-    <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
 </project>
